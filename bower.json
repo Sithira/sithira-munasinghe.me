@@ -1,0 +1,21 @@
+{
+  "name": "atagowani.github.io",
+  "homepage": "https://atagowani.com",
+  "authors": [
+    "Ata Gowani <atagowani@gmail.com>"
+  ],
+  "description": "My fun little website.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
